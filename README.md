@@ -1,6 +1,10 @@
 # BLOG-APP
 
 ## How to Install and Run this project?
+<br />
+
+## DEMO
+http://djangoblogweb.herokuapp.com/
 
 ### Pre-Requisites:
 1. Install Git Version Control
